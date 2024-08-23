@@ -1,5 +1,18 @@
-- meu email de contato é [email](poliana.wrublak@escola.pr.gov.br)
+### Olá, seja bem vindo(a) ao meu perfil! 🙋🏻‍♀️
+### 👩 Me chamo Poliana Wrublak
+| 🌎 PR-Brasil
 
+| 🎉 17 anos
 
-![scrath](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+| 📖✏️ Estudante do terceiro ano do ensino médio
+
+| 🏫 Colégio Estadual Rui Barbosa
+
+![Wrublak GitHub stats](https://github-readme-stats.vercel.app/api?username=polinhawrublak&show_icons=true&theme=radical)
+
+### 📱 Contato
+📧 E-mail: poliana.wrublak@escola.pr.gov.br
+
+✨ Instagram: poliana.wrublakk
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
