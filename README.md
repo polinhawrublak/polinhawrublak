@@ -13,6 +13,6 @@
 ### 📱 Contato
 📧 E-mail: poliana.wrublak@escola.pr.gov.br
 
-✨ Instagram: poliana.wrublakk
+✨ Instagram:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/poliana.wrublakk)
