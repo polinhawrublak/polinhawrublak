@@ -4,10 +4,6 @@
 
 | 🎉 17 anos
 
-| 📖✏️ Estudante do terceiro ano do ensino médio
-
-| 🏫 Colégio Estadual Rui Barbosa
-
 ![Wrublak GitHub stats](https://github-readme-stats.vercel.app/api?username=polinhawrublak&show_icons=true&theme=radical)
 
 ### 📱 Contato
